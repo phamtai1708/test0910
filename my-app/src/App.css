@@ -1,0 +1,11 @@
+div.item-title.done {
+  text-decoration: line-through;
+  color: #9a9a9a;
+}
+div.checkComplete {
+  display: flex;
+}
+div.taskDate {
+  margin-left: auto; /* Đẩy taskDate về cuối dòng */
+  color: #9a9a9a;
+}
